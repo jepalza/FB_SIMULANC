@@ -16,4 +16,4 @@ Por último, lleva un conversor entre sistemas, que convierte de ISO estandar a 
 
 (NOTA: NO ME HAGO RESPONSABLE DE POSIBLES ERRORES EN LA CONVERSION. Es OBLIGACION del usuario final, comprobar visualmente las conversiones, por si acaso el conversor ha hecho algo mal. Hay que pensar en la inmensa cantidad de formatos que hay para máquinas CNC. Esta probado en las máquinas de mis clientes, pero no significa que funcione al 100% en otras)
 
-![Imagen simulanc.jpg](https://github.com/jepalza/FB_SIMULANC/blob/main/pantallazo/simulanc.jpg)
+![Imagen simulanc.jpg](https://github.com/jepalza/FB_SIMULANC/blob/main/pantallazo/simula1.jpg)
