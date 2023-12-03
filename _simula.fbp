@@ -1,0 +1,50 @@
+[Project]
+Version=3
+Description=simulador de programas NC/HNC
+Api=fb (FreeBASIC),gdip (Gdi+)
+Grouping=1
+AddMainFiles=1
+AddModuleFiles=1
+ResExport=
+CompileIfNewer=0
+IncVersion=0
+RunCmd=0
+[Make]
+Module=Module Build,fbc -c
+Recompile=2
+Current=1
+1=Windows Console,fbc -s console
+2=Windows GUI,fbc -s gui
+Output=
+Run=
+Delete=
+[TabOrder]
+TabOrder=1,2,3,4,6,7,8
+CurrentTab=1
+[File]
+Main=1
+1=simula.bas
+2=rutinas3D.bas
+3=rutinasNC.bas
+4=rutinasCOMUN.bas
+6=rutinasCONV.bas
+7=variables.bas
+7=JOSEBA_EPALZA.BI
+8=guindous.bas
+[BreakPoint]
+1=
+7=
+8=
+2=
+3=
+4=
+6=
+[FileInfo]
+1=0,194,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2=0,277,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3=0,189,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4=0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5=0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6=0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7=0,169,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8=0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
